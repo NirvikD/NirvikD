@@ -57,6 +57,14 @@ Welcome to my GitHub profile — you're looking at the ✨ _special_ ✨ repo th
 
 ---
 
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NirvikD&theme=radical&no-bg=true&no-frame=true" />
+</p>
+
+---
+
 ### Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NirvikD&layout=compact&theme=dracula)
