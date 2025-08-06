@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Nirvik
 
-Welcome to my GitHub profile — you're looking at the ✨ _special_ ✨ repo that reflects my tech journey.
+Welcome to my GitHub profile — you're looking at the  _special_  repo that reflects my tech journey.
 
 ---
 
