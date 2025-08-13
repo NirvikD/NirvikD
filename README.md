@@ -71,12 +71,6 @@ Welcome to my GitHub profile — you're looking at the  _special_  repo that ref
 
 ---
 
-### My GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NirvikD&theme=dark)
-
----
-
 ### 🚀 My Tech Stack
 
 #### 🧑‍💻 Programming Languages
