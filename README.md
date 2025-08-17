@@ -40,7 +40,6 @@ Welcome to my GitHub profile — you're looking at the  _special_  repo that ref
   <a href="mailto:contactnirvik25@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
   </a> 
-
   <a href="https://www.linkedin.com/in/nirvik-dutta-372511180">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
   </a>
@@ -55,6 +54,8 @@ Welcome to my GitHub profile — you're looking at the  _special_  repo that ref
 
 ![Nirvik's GitHub stats](https://github-readme-stats.vercel.app/api?username=NirvikD&show_icons=true&theme=dracula)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=NirvikD&theme=dracula&hide_border=true)
+
 ---
 
 ### 🏆 GitHub Trophies
@@ -67,7 +68,7 @@ Welcome to my GitHub profile — you're looking at the  _special_  repo that ref
 
 ### Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NirvikD&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NirvikD&layout=pie&theme=dracula)
 
 ---
 
